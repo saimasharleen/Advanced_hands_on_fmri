@@ -15,3 +15,18 @@ Do the activation patterns associated with the 9 lookalike objects generalize to
 2. Visualize the results for the 3 ROIs (bar plot with mean decoding accuracies, error bars with standard error of mean).
 3. Summarize the results and statistics in a table (mean accuracies, t and p values).
 4. Describe and interpret the results.
+
+## Assignment 2: Representational Similarity Analysis (RSA)
+### General Goal
+Employ RSA to describe similarities/differences of representational spaces in different data types (neural data, behavioural ratings, and deep neural networks).
+### Question
+Does the representational space for each data type reflect object visual appearance (appearance model) or object animacy properties (animacy model)?
+### Tasks
+• Use RSA to test how well the two models (appearance and animacy) explain the representational space in three data types:
+brain data: 1 ROI (V1, post VTC, ant VTC)
+behavioural data (single subject ratings: “SimJudgments” mat file) DNNs (Alexnet all layers)*
+• Visualize the results for the 3 data types (RSA results and models)
+• Summarize the results and statistics (you can also add a table to give an overview)
+• Results section (describe rationale for the analyse and report results)
+• General discussion of results
+• Upload scripts can you make this GitHub readme code. Make it easier to understand and make it GitHub standard
